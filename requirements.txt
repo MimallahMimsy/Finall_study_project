@@ -1,0 +1,5 @@
+pandas
+tinkoff-investments
+plotly
+dash
+flask
